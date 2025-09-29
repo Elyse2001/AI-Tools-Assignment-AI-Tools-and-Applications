@@ -38,3 +38,5 @@ Aspect	Scikit-learn	TensorFlow
 Target applications	Classical ML (SVM, decision trees, clustering, regression)	Deep learning (CNNs, RNNs, transformers)
 Ease of use	Very beginner-friendly; consistent API	Steeper learning curve; more boilerplate
 Community support	Mature, stable, widely used in academia & industry for small/medium ML tasks	Huge community for DL, strong support from Google, many tutorials for neural networks
+streamlit run app.py
+
